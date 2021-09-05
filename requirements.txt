@@ -1,5 +1,9 @@
 This is Chat application
+
 Emoji
 Type option
 colours
 vibrant
+
+Dark mode
+video calls
